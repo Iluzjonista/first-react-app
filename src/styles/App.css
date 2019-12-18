@@ -1,0 +1,12 @@
+.jumbotron {
+  text-align: center;
+}
+.col-sm-3 {
+  padding-top: 20px;
+}
+.card {
+  margin-bottom: 10px;
+}
+.card-body{
+  text-align:center;
+}
